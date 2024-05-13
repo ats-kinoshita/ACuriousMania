@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: So you clicked to find out more...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Atsushi Kinoshita. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I get hyper-focused while solving problems
+- If I'm quiet I'm certainly overthinking
+- If my eyes are closed I'm either meditating or sleeping (it's a much closer split than you might think)
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Born in Toronto, moved across Japan from Tokyo to Aomori, and returned not understanding either place in the end. I like math and thinking things through, to the detriment of practical things if my family is to be believed.
