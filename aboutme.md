@@ -13,4 +13,4 @@ My name is Atsushi Kinoshita. I have the following qualities:
 
 ### My story
 
-Born in Toronto, moved across Japan from Tokyo to Aomori, and returned not understanding either place in the end. I like math and thinking things through, to the detriment of practical things if my family is to be believed.
+Born in Toronto, I moved across Japan from Tokyo to Aomori, and returned not understanding either place. I like math and thinking things through, to the detriment of practical things if my family is to be believed.
