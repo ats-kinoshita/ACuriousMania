@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: A Curious Mania
+title: GitHub Pages
 
 # Your name to show in the footer
 author: Atsushi Kinoshita
@@ -15,10 +15,8 @@ author: Atsushi Kinoshita
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Blogs:
+    - A Curious Mania: "https://acuriousmania.blogspot.com/"
 
 # --- Logo --- #
 
@@ -42,13 +40,13 @@ social-network-links:
 #  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: ats-kinoshita
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: atsushi-kinoshita
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,19 +62,19 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
-  kaggle: yourname
+#  kaggle: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that I exist
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
