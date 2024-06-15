@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: GitHub Pages
+title: "@sushi's Pages"
 
 # Your name to show in the footer
 author: Atsushi Kinoshita
@@ -14,15 +14,18 @@ author: Atsushi Kinoshita
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Games:
+  Prototypes:
+  Covers: 
   My Blogs:
     - A Curious Mania: "https://acuriousmania.blogspot.com/"
+  About Me: "aboutme"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Kamakura_Buddha.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
