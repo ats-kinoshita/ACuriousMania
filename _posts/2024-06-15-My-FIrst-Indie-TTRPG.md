@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Indie TTRPG: Mother-LOD
+title: My First Indie TTRPG => Mother-LOD
 subtitle: A commemoration of my new website, christened with my first published game
 tags: [intro, ttrpg, ruleset, itch.io]
 comments: true
