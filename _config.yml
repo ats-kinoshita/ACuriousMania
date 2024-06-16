@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: "Personal Pages"
+title: "My Personal Pages"
 
 # Your name to show in the footer
 author: Atsushi Kinoshita
@@ -66,7 +66,7 @@ social-network-links:
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
-  itch: atsumo
+  itch: atsumo.itch.io
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
