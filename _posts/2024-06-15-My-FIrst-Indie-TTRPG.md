@@ -6,19 +6,19 @@ tags: [intro, ttrpg, ruleset, itch.io]
 comments: true
 ---
 
-This is mostly a test of how these posts will look. As for the content, I will upload some details from my game [Mother-LOD](https://atsumo.itch.io/mother-lod):
+This is mostly a test of how these posts will look. As for the content, I will upload some details from my game [Mother-LOD](https://atsumo.itch.io/mother-lod).
 
 # Mother-LOD
-A game inspired by the Mothership and Into the Odd Tabletop Roleplaying Games, this is what I use to run Mothership modules and other Industrial Sci-Fi Horror scenarios. The design is a bit out of date compared to what I use currently, but I wanted to keep the 1e rule set available as it is closest in design to its inspirations.
+A game inspired by the Mothership and Into the Odd Tabletop Roleplaying Games, this is what I made to run Mothership modules and other Industrial Sci-Fi Horror scenarios. The design is a bit out of date compared to what I use currently, but I wanted to keep the 1e rule set available as it is closest in design to its inspirations.
 
 ## Table of Contents
-- [Game Mechanics](###GameMechanics)
-- [Adventuring](###Adventuring)
-- [Character Creation](###CharacterCreation)
-- [Running the Game](###RunningtheGame)
-- [Scenario Sparks](###ScenarioSparks)
-- [NPCs](###NPCs)
-- [Villains](###Villains)
+- [Game Mechanics](#Game%20Mechanics)
+- [Adventuring](#Adventuring)
+- [Character Creation](#Character%20Creation)
+- [Running the Game](#Runningthe%20Game)
+- [Scenario Sparks](#Scenario%20Sparks)
+- [NPCs](#NPCs)
+- [Villains](#Villains)
 
 ### Game Mechanics
 
