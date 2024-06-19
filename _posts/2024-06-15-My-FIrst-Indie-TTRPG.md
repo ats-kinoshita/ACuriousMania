@@ -160,15 +160,14 @@ Outside overly dense archologies or colony ships, most live sparsely across plan
 | 2-5| Assets w/ total of (6 - HP) Value    |
 | 6  | +1 Stat, Simple Tool                 |
 
-##### Simple Tool Tables
+#### Simple Tool Tables
 
 | #  | Asset       |
 |----|-------------|
 | 1  | Tool/Weapon |
 | 2  | Augment/Drone |
 | 3  | Armour/Vehicle |
-| 4  | Guardian/Wonder |
-
+| 4  | Guardian/Wonder |\
 
 | #  | Quality       |
 |----|---------------|
@@ -179,7 +178,7 @@ Outside overly dense archologies or colony ships, most live sparsely across plan
 | 5  | Protects      |
 | 6  | Shears        |
 
-##### Weapon Templates
+#### Weapon Templates
 - Crude Weapon (d4)
 - Sidearm (d6)
 - Longarm (d8, Bulky)
