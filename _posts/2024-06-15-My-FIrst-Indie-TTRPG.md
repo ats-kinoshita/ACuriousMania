@@ -167,7 +167,9 @@ Outside overly dense archologies or colony ships, most live sparsely across plan
 | 1  | Tool/Weapon |
 | 2  | Augment/Drone |
 | 3  | Armour/Vehicle |
-| 4  | Guardian/Wonder |\
+| 4  | Guardian/Wonder |
+
+
 
 | #  | Quality       |
 |----|---------------|
