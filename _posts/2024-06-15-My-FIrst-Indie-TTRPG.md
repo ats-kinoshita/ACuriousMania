@@ -11,6 +11,9 @@ This is mostly a test of how these posts will look. As for the content, I will u
 # Mother-LOD
 A game inspired by the Mothership and Into the Odd Tabletop Roleplaying Games, this is what I made to run Mothership modules and other Industrial Sci-Fi Horror scenarios. The design is a bit out of date compared to what I use currently, but I wanted to keep the 1e rule set available as it is closest in design to its inspirations.
 
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
+
 ## Table of Contents (WIP)
 - [Game Mechanics](#GameMechanics)
 - [Adventuring](#Adventuring)
