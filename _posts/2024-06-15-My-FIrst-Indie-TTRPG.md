@@ -11,15 +11,16 @@ This is mostly a test of how these posts will look. As for the content, I will u
 # Mother-LOD
 A game inspired by the Mothership and Into the Odd Tabletop Roleplaying Games, this is what I made to run Mothership modules and other Industrial Sci-Fi Horror scenarios. The design is a bit out of date compared to what I use currently, but I wanted to keep the 1e rule set available as it is closest in design to its inspirations.
 
-## Table of Contents
-- [Game Mechanics](#Game%20Mechanics)
+## Table of Contents (WIP)
+- [Game Mechanics](#GameMechanics)
 - [Adventuring](#Adventuring)
-- [Character Creation](#Character%20Creation)
-- [Running the Game](#Runningthe%20Game)
-- [Scenario Sparks](#Scenario%20Sparks)
+- [Character Creation](#CharacterCreation)
+- [Running the Game](#RunningtheGame)
+- [Scenario Sparks](#ScenarioSparks)
 - [NPCs](#NPCs)
 - [Villains](#Villains)
 
+<a name="GameMechanics"></a>
 ### Game Mechanics
 
 #### Character Stats
@@ -82,6 +83,7 @@ Other Gambits outside direct Combat (such as parleys, shadowing, or silent kills
 - It Happens, live with the consequences
 - A Roll, either a Save or plain Luck (d6 roll high)
 
+<a name="Adventuring"></a>
 ### Adventuring
 
 #### Stress & Panic
@@ -115,6 +117,7 @@ Examples: Food, Water, First Aid, Oxygen, Camping, Climbing, Maintenance
 #### Commerce and Scarcity
 Outside overly dense archologies or colony ships, most live sparsely across planetary systems. As such, sourcing goods is not always so easy. Things with a base price of 100 credits or less can be sought in any settlement, but might be anywhere from 2-10 times base price due to scarcity. Anything more than that can only be bartered for, or sourced at major urban sprawls, and not always legally. Asset Value generally indicates the order of base price in 10’s of credits (i.e., Tools or Weapons start in the 10's, Augments or Drones start in the 100's, Armour or Vehicles start in the 1000’s).
 
+<a name="CharacterCreation"></a>
 ### Character Creation
 
 #### You Travel through Alien Spaces
@@ -180,7 +183,7 @@ Outside overly dense archologies or colony ships, most live sparsely across plan
 - Anti-Material Weapon (d10, Heavy)
 - Detonation (d12, Blast)
 
-### Lifepath Character Creation Option
+#### Lifepath Character Creation Option
 Assess Lifestyle Condition up to maturity:
 - Roll d10 Danger, d10 Result
 - (Optional) Reinvest your life:
@@ -208,6 +211,7 @@ Assess Lifestyle Condition up to maturity:
 *Roll (d6, d6) Quality for each Asset acquired
 **Make a Save for each stat, -1 Max to each failed
 
+<a name="RunningtheGame"></a>
 ### Running the Game
 
 #### Player-Centric Detailing and Fate
@@ -226,6 +230,7 @@ When rolling Luck or trying to determine the Attributes of an NPC, consider the 
 
 HP should be measured in how likely a d6 weapon would reduce it to 0; doubled for experienced combatants; and tripled if monstrously resilient.
 
+<a name="ScenarioSparks"></a>
 ### Scenario Sparks
 ...Before it’s too late
 
@@ -262,6 +267,7 @@ HP should be measured in how likely a d6 weapon would reduce it to 0; doubled fo
 | 5  | Reaves    | Stalker      | Mark        |
 | 6  | Spawns    | Victim       | Transport   |
 
+<a name="NPCs"></a>
 ### NPCs
 
 #### Voice and Appeal
@@ -275,6 +281,7 @@ HP should be measured in how likely a d6 weapon would reduce it to 0; doubled fo
 | Soft       | Sincere       |
 | Terrifying | Quick-Witted  |
 
+<a name="Villains"></a>
 ### Villains
 
 #### Drive and Flaw
